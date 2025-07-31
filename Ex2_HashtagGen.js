@@ -7,4 +7,4 @@ function generateHashtag(str) {
 
 console.log(generateHashtag(" Hello there thanks for trying my Kata"))  //"#HelloThereThanksForTryingMyKata"
 console.log(generateHashtag("    Hello     World   "))                  //"#HelloWorld"
-console.log(generateHashtag(""))                                        //false
+console.log(generateHashtag(""))                                        //falsegiu
